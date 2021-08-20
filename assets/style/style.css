@@ -1,0 +1,68 @@
+:root{
+    --cbg-lightgreen: #234c48;
+    --cbg-darkgreen: #133131;
+    --cbg-red: #931924;
+    --cbg-darkred: #6f0c20;
+    --cbg-lightaqua: #c9e8e3;
+    --cbg-aqua: #3b8993;
+    --cbg-orange: #dd5227;
+    --cbg-darkorange: #b62625;
+    --cbg-light: #e8efe8;
+}
+
+.cbg-dgreen {
+    background: var(--cbg-darkgreen);
+  }
+.cbg-lgreen {
+    background-color: var(--cbg-lightgreen);
+  }
+.cbg-red {
+    background-color: var(--cbg-red);
+  }
+.cbg-dred {
+    background-color: var(--cbg-darkred);
+  }
+.cbg-laqua {
+    background-color: var(--cbg-lightaqua);
+  }
+.cbg-aqua {
+    background-color: var(--cbg-aqua);
+  }
+.cbg-lorange {
+    background-color: var(--cbg-orange);
+  }
+.cbg-dorange {
+    background-color: var(--cbg-darkorange);
+  }
+
+.text-clight {
+    color: var(--cbg-light)
+}
+.text-dgreen {
+    color: var(--cbg-darkgreen);
+  }
+.text-lgreen {
+    color: var(--cbg-lightgreen);
+  }
+.text-red {
+    color: var(--cbg-red);
+  }
+.text-dred {
+    color: var(--cbg-darkred);
+  }
+.text-laqua {
+    color: var(--cbg-lightaqua)!important;
+  }
+.text-aqua {
+    color: var(--cbg-aqua);
+  }
+.text-lorange {
+    color: var(--cbg-orange);
+  }
+.text-dorange {
+    color: var(--cbg-darkorange);
+  }
+
+.textstyle {
+    font-family: 'Saira Extra Condensed', sans-serif;
+}
