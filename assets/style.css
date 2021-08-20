@@ -11,7 +11,7 @@
 }
 
 .bg-space{
-    background-image:url(./assets/titan.jpg);
+    background-image:url(assets/titan.jpg);
     background-position:top;
     background-size: cover;
     position: relative;
