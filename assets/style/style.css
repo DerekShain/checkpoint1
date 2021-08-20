@@ -10,6 +10,16 @@
     --cbg-light: #e8efe8;
 }
 
+.bg-space{
+    background-image:url(/assets/img/background.jpg);
+    background-position:top;
+    background-size: cover;
+    position: relative;
+}
+
+.cbg-light {
+    background: var(--cbg-light);
+}
 .cbg-dgreen {
     background: var(--cbg-darkgreen);
   }
